@@ -28,3 +28,6 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+
+** This Project is forked from the main branch of "https://github.com/LondheShubham153/django-notes-app.git". The Sole purpose is to learn Jenkins CI/CD Deployment.
